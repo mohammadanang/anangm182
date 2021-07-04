@@ -1,0 +1,58 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "anangm182"
+theme = "researcher"
+enableEmoji = true
+math = false
+
+[params]
+  author = "Mohammad Anang"
+  description = "My simple personal portfolio."
+  favicon = "favicon.ico"  # path to a .ico to use as favicon
+  logo = ""  # url or path to a logo to put in the header
+  [params.footer]
+    text = "By Mohammad Anang"
+    url = "https://github.com/mohammadanang"
+  [params.style]  # appearance options (can be omitted)
+    fontFamily = "Inconsolata"
+    pageWidth = "750px"
+    avatarSize = "90px"
+    colorBlack = "#222222"
+    colorRed = "#dc3545"
+  [[params.socialIcons]]
+    icon = "fab fa-instagram"
+    title = "Instagram"
+    url = "https://www.instagram.com/anangm182/"
+  [[params.socialIcons]]
+    icon = "fab fa-twitter"
+    title = "Twitter"
+    url = "https://twitter.com/anangm182"
+  [[params.socialIcons]]
+    icon = "fab fa-youtube"
+    title = "Youtube"
+    url = "https://www.youtube.com/channel/UCKJx6n1PIpMrjx0zYQhDYRQ"
+  [[params.socialIcons]]
+    icon = "fab fa-linkedin"
+    title = "Linkedin"
+    url = "https://www.linkedin.com/in/anangm182/"
+
+[permalinks]
+  "/" = "/:filename"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about"
+    weight = 1
+  [[menu.main]]
+    name = "Masterpieces"
+    url = "/masterpieces"
+    weight = 2
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts"
+    weight = 3
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 4
