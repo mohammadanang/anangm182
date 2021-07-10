@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "anangm182"
-theme = "researcher"
+theme = "custom-researcher"
 enableEmoji = true
 math = false
 
@@ -20,13 +20,9 @@ math = false
     colorBlack = "#222222"
     colorRed = "#dc3545"
   [[params.socialIcons]]
-    icon = "fab fa-instagram"
-    title = "Instagram"
-    url = "https://www.instagram.com/anangm182/"
-  [[params.socialIcons]]
-    icon = "fab fa-twitter"
-    title = "Twitter"
-    url = "https://twitter.com/anangm182"
+    icon = "fab fa-github"
+    title = "GitHub"
+    url = "https://github.com/mohammadanang"
   [[params.socialIcons]]
     icon = "fab fa-youtube"
     title = "Youtube"

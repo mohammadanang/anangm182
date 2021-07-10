@@ -51,6 +51,18 @@ def is_elementary():
   return True
 ```
 
+***
+
+### Wishlist:
+
+- [x] Contribute to Open Sources more 😄⚙️.
+- [ ] Write a book 😠🔥.
+- [ ] Start to creating [Youtube](https://www.youtube.com/channel/UCKJx6n1PIpMrjx0zYQhDYRQ) videos 😬🎥.
+- [x] Make libraries or packages or plugins more 😮👍.
+- [ ] Workout routinely 🥱💪.
+
+***
+
 ## References
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem
