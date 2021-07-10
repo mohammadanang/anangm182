@@ -5,19 +5,14 @@ date: 2021-06-30T14:21:50+07:00
 
 ## To Whom It May Concern
 
-{{<figure class="avatar" src="/8413482.jpeg" alt="avatar">}}
+{{< figure class="avatar" src="/8413482.jpeg" alt="avatar" >}}
 
-
-Hello!. My name is `Mohammad Anang`.  
+Hello! My name is `Mohammad Anang`.  
 Typing is my daily activities. I can't live without typing.  
 Sometimes thinking. Sometimes sleeping.  
 Eyes up and down. Head left and right.  
 No matter how tired I am. I will always typing.  
 That's what people called a `Software Engineer`.  
-
-.  
-.  
-.  
 
 ***
 

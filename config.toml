@@ -12,7 +12,7 @@ math = false
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
     text = "By Mohammad Anang"
-    url = "https://github.com/mohammadanang"
+    url = "/contact"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"

@@ -3,14 +3,16 @@ title: "Contact"
 date: 2021-06-30T14:21:50+07:00
 ---
 
+{{< figure class="avatar" src="/288744.png" alt="contact" >}}
+
 ## Contact
 
-* Email: [m.anangnur@gmail.com](mailto:m.anangnur@gmail.com)
+* Email: [m.anangnur@gmail.com](mailto:m.anangnur@gmail.com) 📧
 * Telegram: [@anangm182](https://t.me/anangm182)
 
 ---
 
-### Stay At:
+### Stay At 📍
 
 > Jakarta, Indonesia
 
@@ -25,3 +27,5 @@ date: 2021-06-30T14:21:50+07:00
 5. [Linkedin](https://www.linkedin.com/in/anangm182/)
 
 ---
+
+{{< vultr-ads-small >}}
