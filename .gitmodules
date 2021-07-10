@@ -1,6 +1,3 @@
-[submodule "themes/researcher"]
-	path = themes/researcher
-	url = https://github.com/ojroques/hugo-researcher.git
 [submodule "themes/custom-researcher"]
 	path = themes/custom-researcher
 	url = https://github.com/mohammadanang/hugo-researcher.git
