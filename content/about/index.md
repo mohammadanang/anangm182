@@ -9,21 +9,13 @@ This is my updated portfolio. I actually work using [GitHub](https://github.com/
 
 ### Research interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum
+`not yet` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum
 ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio
 pharetra quis. Mauris id urna ante.
 
 Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque
 laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc
-ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
-
-### Wishlist
-
-- [x] Contribute to Open Sources more 😄⚙️.
-- [ ] Write a book 😠🔥.
-- [ ] Start to creating [Youtube](https://www.youtube.com/channel/UCKJx6n1PIpMrjx0zYQhDYRQ) videos 😬🎥.
-- [x] Make libraries or packages or plugins more 😮👍.
-- [x] Workout routinely 🥱💪.
+ipsum nisl, consequat sit amet pretium quis, gravida id ipsum. `not yet`
 
 ### Licenses & ceritfications
 
@@ -33,10 +25,19 @@ ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 4. **Ekipa**[^2], *"Indonesia Scrum Master I"*, [TGDQZGGQHZ-YWWPSYMY-RPJHDLHTHJ](), *Des 2020*.
 5. **Udemy**[^1], *"Optimizing Web Performance and Critical Rendering Path"*, [UC-04efb058-483d-4b0f-a92a-5f22dd38e199](http://ude.my/UC-04efb058-483d-4b0f-a92a-5f22dd38e199/), *Aug 2020*.
 
+### Wishlist
+
+- [x] Contribute to Open Sources more 😄⚙️.
+- [ ] Write a book 😠🔥.
+- [ ] Start to creating [Youtube](https://www.youtube.com/channel/UCKJx6n1PIpMrjx0zYQhDYRQ) videos 😬🎥.
+- [x] Make libraries or packages or plugins more 😮👍.
+- [x] Workout routinely 🥱💪.
+
 ### References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* [Udemy course](https://www.udemy.com/).
+* [GitHub repos](https://github.com/).
+* [Academind YouTube channel](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w).
 
 ***
 

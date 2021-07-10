@@ -10,6 +10,7 @@ math = false
   description = "My simple personal portfolio."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
+  googleAds = "ca-pub-4378241482063542"
   [params.footer]
     text = "By Mohammad Anang"
     url = "/contact"
