@@ -7,15 +7,15 @@ date: 2021-06-30T14:21:50+07:00
 
 This is my updated portfolio. I actually work using [GitHub](https://github.com/mohammadanang).
 
-### Research interest
+<!-- ### Research interest -->
 
-`not yet` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum
+<!-- `not yet` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum
 ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio
 pharetra quis. Mauris id urna ante.
 
 Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque
 laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc
-ipsum nisl, consequat sit amet pretium quis, gravida id ipsum. `not yet`
+ipsum nisl, consequat sit amet pretium quis, gravida id ipsum. `not yet` -->
 
 ### Licenses & ceritfications
 
